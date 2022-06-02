@@ -16,4 +16,4 @@ export default function Panel(props) {
             {console.log(caminho)}
         </div>
     );
-}
+} 
