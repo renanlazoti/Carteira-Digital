@@ -1,0 +1,1 @@
+export const path = "http://10.26.49.50:2004/api";
